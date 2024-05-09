@@ -1,9 +1,9 @@
 package com.at_lesson.enums;
 
-public class PropertyFile {
+public enum PropertyFile {
+    CONFIG("config.properties"),
 
-//     CONFIG("config.properties"),
-//    EMAIL("email.properties");
+    EMAIL("email.properties");
 
     private String pathToFile;
 

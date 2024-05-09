@@ -1,8 +1,8 @@
 package com.at_lesson.enums;
 
-public class Capability {
-//    BROWSER("browser", "chrome"),
-//    BROWSER_VERSION("browserVersion", "124");
+public enum Capability {
+    BROWSER("browser", "chrome"),
+    BROWSER_VERSION("browserVersion", "124");
 
     private String key;
     private String defaultValue;

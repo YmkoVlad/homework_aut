@@ -1,5 +1,8 @@
 package com.at_lesson;
 
+import com.at_lesson.enums.Capability;
+import com.at_lesson.utils.DriverFactory;
+import com.at_lesson.utils.PropertyReader;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterTest;
@@ -13,8 +16,7 @@ public class BaseTest {
 
     @BeforeTest
     public void setUp() {
-        System.setProperty("webdriver.chrome.driver", "C:/ChromeDriver/chromedriver.exe");
-        driver = new ChromeDriver();
+        driver = DriverFactory.createDriver(PropertyReader.getConfigPropery(Capability.BROWSER));
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
     }
