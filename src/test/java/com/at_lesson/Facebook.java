@@ -43,11 +43,9 @@ public class Facebook extends BaseTest {
         MainPage mainPage = new MainPage(driver);
         mainPage.openUrl();
         int sizeAllProductByMainPage = mainPage.getAllNameProduct().size();
-        System.out.println(sizeAllProductByMainPage);
         mainPage.clickFilterBtnBySize(1);
         Thread.sleep(1000);  //не придумал пока ожидалки TODO доделать ожидалку
         int sizeAllProductByMainPageAfterFilter = mainPage.getAllNameProduct().size();
-        System.out.println(sizeAllProductByMainPageAfterFilter);
         Assert.assertTrue(sizeAllProductByMainPage > sizeAllProductByMainPageAfterFilter, "Size filter doesn't workgi");
         ScreanShotUtils.takeScreenshot(driver);
     }
