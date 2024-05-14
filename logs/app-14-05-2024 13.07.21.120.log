@@ -1,0 +1,16 @@
+2024-05-14 13:07:21,195 DEBUG c.a.u.DriverFactory [main] Browser is chrome
+2024-05-14 13:07:22,109 INFO c.a.l.TestListneres [main] TestfistTest Started
+2024-05-14 13:07:23,817 INFO c.a.l.TestListneres [main] Test fistTest Success
+2024-05-14 13:07:23,818 INFO c.a.l.TestListneres [main] TestfistTest Started
+2024-05-14 13:07:25,039 INFO c.a.l.TestListneres [main] Test fistTest Success
+2024-05-14 13:07:25,040 INFO c.a.l.TestListneres [main] TestfistTest Started
+2024-05-14 13:07:26,305 INFO c.a.l.TestListneres [main] Test fistTest Success
+2024-05-14 13:07:26,306 INFO c.a.l.TestListneres [main] TestfistTest Started
+2024-05-14 13:07:27,601 INFO c.a.l.TestListneres [main] Test fistTest Success
+2024-05-14 13:07:27,602 INFO c.a.l.TestListneres [main] TestfistTest Started
+2024-05-14 13:07:29,119 INFO c.a.l.TestListneres [main] Test fistTest Success
+2024-05-14 13:07:29,120 INFO c.a.l.TestListneres [main] TestfistTest Started
+2024-05-14 13:07:30,701 INFO c.a.l.TestListneres [main] Test fistTest Success
+2024-05-14 13:07:30,702 INFO c.a.l.TestListneres [main] TestfistTest Started
+2024-05-14 13:07:32,192 INFO c.a.l.TestListneres [main] Test fistTest Success
+2024-05-14 13:07:32,309 INFO c.a.l.TestListneres [main] Test aut_lesson quitDriver

@@ -1,0 +1,4 @@
+2024-05-14 13:05:37,757 DEBUG c.a.u.DriverFactory [main] Browser is chrome
+2024-05-14 13:05:38,685 INFO c.a.l.TestListneres [main] TestverifyAddProductInCartByTitle Started
+2024-05-14 13:05:40,220 INFO c.a.l.TestListneres [main] Test verifyAddProductInCartByTitle Success
+2024-05-14 13:05:40,286 INFO c.a.l.TestListneres [main] Test aut_lesson quitDriver

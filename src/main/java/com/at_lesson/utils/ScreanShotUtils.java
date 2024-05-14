@@ -11,8 +11,8 @@ import java.util.Date;
 
 public class ScreanShotUtils {
 
-    public static void takeScreenshot(WebDriver driver) {
-        File file = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
+    public static void takeScreenshot() {
+        File file = ((TakesScreenshot) DriverManager.getDriver()).getScreenshotAs(OutputType.FILE);
         Date date = new Date();
         File screenshot = new File(date.getTime() + ".png");
         try {

@@ -1,0 +1,23 @@
+2024-05-14 13:09:50,077 DEBUG c.a.u.DriverFactory [TestNG-test-AllCasesHomeWork-1] Browser is chrome
+2024-05-14 13:09:50,982 INFO c.a.l.TestListneres [TestNG-test-AllCasesHomeWork-1] TestverifyAddAllProductInCartByTitle Started
+2024-05-14 13:09:52,173 INFO c.a.l.TestListneres [TestNG-test-AllCasesHomeWork-1] Test verifyAddAllProductInCartByTitle Success
+2024-05-14 13:09:52,174 INFO c.a.l.TestListneres [TestNG-test-AllCasesHomeWork-1] TestverifyAddFiltByCountProduct Started
+2024-05-14 13:09:53,700 INFO c.a.l.TestListneres [TestNG-test-AllCasesHomeWork-1] Test verifyAddFiltByCountProduct Success
+2024-05-14 13:09:53,701 INFO c.a.l.TestListneres [TestNG-test-AllCasesHomeWork-1] TestverifyAddFiltByTitel Started
+2024-05-14 13:09:56,195 INFO c.a.l.TestListneres [TestNG-test-AllCasesHomeWork-1] Test verifyAddFiltByTitel Success
+2024-05-14 13:09:56,196 INFO c.a.l.TestListneres [TestNG-test-AllCasesHomeWork-1] TestverifyAddProductInCartByTitle Started
+2024-05-14 13:09:57,257 INFO c.a.l.TestListneres [TestNG-test-AllCasesHomeWork-1] Test verifyAddProductInCartByTitle Success
+2024-05-14 13:09:57,259 INFO c.a.l.TestListneres [TestNG-test-AllCasesHomeWork-1] TestverifyFilterByClickBtn Started
+2024-05-14 13:09:58,426 INFO c.a.l.TestListneres [TestNG-test-AllCasesHomeWork-1] Test verifyFilterByClickBtn Success
+2024-05-14 13:09:58,426 INFO c.a.l.TestListneres [TestNG-test-AllCasesHomeWork-1] TestverifyFilterByClickBtn Started
+2024-05-14 13:09:59,660 INFO c.a.l.TestListneres [TestNG-test-AllCasesHomeWork-1] Test verifyFilterByClickBtn Success
+2024-05-14 13:09:59,661 INFO c.a.l.TestListneres [TestNG-test-AllCasesHomeWork-1] TestverifyFilterByClickBtn Started
+2024-05-14 13:10:00,951 INFO c.a.l.TestListneres [TestNG-test-AllCasesHomeWork-1] Test verifyFilterByClickBtn Success
+2024-05-14 13:10:00,952 INFO c.a.l.TestListneres [TestNG-test-AllCasesHomeWork-1] TestverifyFilterByClickBtn Started
+2024-05-14 13:10:02,296 INFO c.a.l.TestListneres [TestNG-test-AllCasesHomeWork-1] Test verifyFilterByClickBtn Success
+2024-05-14 13:10:02,296 INFO c.a.l.TestListneres [TestNG-test-AllCasesHomeWork-1] TestverifyFilterByClickBtn Started
+2024-05-14 13:10:03,777 INFO c.a.l.TestListneres [TestNG-test-AllCasesHomeWork-1] Test verifyFilterByClickBtn Success
+2024-05-14 13:10:03,778 INFO c.a.l.TestListneres [TestNG-test-AllCasesHomeWork-1] TestverifyFilterByClickBtn Started
+2024-05-14 13:10:05,347 INFO c.a.l.TestListneres [TestNG-test-AllCasesHomeWork-1] Test verifyFilterByClickBtn Success
+2024-05-14 13:10:05,348 INFO c.a.l.TestListneres [TestNG-test-AllCasesHomeWork-1] TestverifyFilterByClickBtn Started
+2024-05-14 13:10:06,828 INFO c.a.l.TestListneres [TestNG-test-AllCasesHomeWork-1] Test verifyFilterByClickBtn Success

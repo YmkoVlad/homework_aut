@@ -1,0 +1,19 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name = "homeWorkSuite" thread-count="3" parallel="methods">
+    <listeners>
+        <listener class-name="com.at_lesson.utils.retry.AnnotationTransformer"/>
+    </listeners>
+    <test name = "homeWork">
+        <classes>
+            <class name = "com.at_lesson.Facebook" >
+                <methods>
+                    <include name="verifyAddProductInCartByTitle"/>
+                    <include name="verifyAddAllProductInCartByTitle"/>
+                    <include name="verifyAddFiltByTitel"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,13 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name = "AllCases" thread-count="1" parallel="methods">
+    <listeners>
+        <listener class-name="com.at_lesson.utils.retry.AnnotationTransformer"/>
+    </listeners>
+    <test name = "AllCasesHomeWork">
+        <classes>
+            <class name = "com.at_lesson.Facebook" />
+        </classes>
+    </test>
+</suite>
