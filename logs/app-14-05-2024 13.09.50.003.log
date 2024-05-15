@@ -1,4 +1,4 @@
-2024-05-14 13:09:50,077 DEBUG c.a.u.DriverFactory [TestNG-test-AllCasesHomeWork-1] Browser is chrome
+e2024-05-14 13:09:50,077 DEBUG c.a.u.DriverFactory [TestNG-test-AllCasesHomeWork-1] Browser is chrome
 2024-05-14 13:09:50,982 INFO c.a.l.TestListneres [TestNG-test-AllCasesHomeWork-1] TestverifyAddAllProductInCartByTitle Started
 2024-05-14 13:09:52,173 INFO c.a.l.TestListneres [TestNG-test-AllCasesHomeWork-1] Test verifyAddAllProductInCartByTitle Success
 2024-05-14 13:09:52,174 INFO c.a.l.TestListneres [TestNG-test-AllCasesHomeWork-1] TestverifyAddFiltByCountProduct Started
