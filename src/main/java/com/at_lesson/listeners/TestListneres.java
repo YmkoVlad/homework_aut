@@ -24,6 +24,8 @@ public class TestListneres implements ITestListener {
     @Override
     public void onTestSuccess(ITestResult result) {
         LOGGER.info("Test " + result.getMethod().getMethodName() + " Success");
+        DriverManager.quitDriver();
+        LOGGER.info("Test " + result.getName() + " quitDriver");
 
 //        System.out.println("=======================================================");
 //        System.out.println("Test " + result.getMethod().getMethodName() + " Success");
@@ -34,6 +36,8 @@ public class TestListneres implements ITestListener {
         LOGGER.info("Test " + result.getMethod().getMethodName() + " Failure");
         ScreanShotUtils.takeScreenshot();
         LOGGER.info(DriverManager.getDriver().getPageSource());
+        DriverManager.quitDriver();
+        LOGGER.info("Test " + result.getName() + " quitDriver");
 
 //        System.out.println("=======================================================");
 //        System.out.println("Test " + result.getMethod().getMethodName() + " Failure");
@@ -41,11 +45,7 @@ public class TestListneres implements ITestListener {
 //        System.out.println(DriverManager.getDriver().getPageSource());
     }
 
-    @Override
-    public void onFinish(ITestContext context) {
-        DriverManager.quitDriver();
-        LOGGER.info("Test " + context.getName() + " quitDriver");
-    }
+   
 
 
 }

@@ -1,0 +1,9 @@
+2024-05-16 21:42:21,786 DEBUG c.a.u.DriverFactory [TestNG-test-homeWork-2] Browser is chrome
+2024-05-16 21:42:22,691 DEBUG c.a.u.DriverFactory [TestNG-test-homeWork-3] Browser is chrome
+2024-05-16 21:42:22,692 INFO c.a.l.TestListneres [TestNG-test-homeWork-2] TestverifyAddAllProductInCartByTitle Started
+2024-05-16 21:42:23,247 INFO c.a.l.TestListneres [TestNG-test-homeWork-3] TestverifyAddFiltByTitel Started
+2024-05-16 21:42:23,247 DEBUG c.a.u.DriverFactory [TestNG-test-homeWork-1] Browser is chrome
+2024-05-16 21:42:23,775 INFO c.a.l.TestListneres [TestNG-test-homeWork-1] TestverifyAddProductInCartByTitle Started
+2024-05-16 21:42:25,051 INFO c.a.l.TestListneres [TestNG-test-homeWork-2] Test verifyAddAllProductInCartByTitle Success
+2024-05-16 21:42:25,279 INFO c.a.l.TestListneres [TestNG-test-homeWork-1] Test verifyAddProductInCartByTitle Success
+2024-05-16 21:42:26,651 INFO c.a.l.TestListneres [TestNG-test-homeWork-3] Test verifyAddFiltByTitel Success

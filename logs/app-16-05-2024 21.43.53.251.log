@@ -1,0 +1,15 @@
+2024-05-16 21:43:53,343 DEBUG c.a.u.DriverFactory [TestNG-test-homeWork-3] Browser is chrome
+2024-05-16 21:43:53,344 DEBUG c.a.u.DriverFactory [TestNG-test-homeWork-3] Browser is firefox
+2024-05-16 21:43:53,345 DEBUG c.a.u.DriverFactory [TestNG-test-homeWork-3] Options are created
+2024-05-16 21:43:55,308 DEBUG c.a.u.DriverFactory [TestNG-test-homeWork-1] Browser is chrome
+2024-05-16 21:43:55,309 DEBUG c.a.u.DriverFactory [TestNG-test-homeWork-1] Browser is firefox
+2024-05-16 21:43:55,309 INFO c.a.l.TestListneres [TestNG-test-homeWork-3] TestverifyAddFiltByTitel Started
+2024-05-16 21:43:55,310 DEBUG c.a.u.DriverFactory [TestNG-test-homeWork-1] Options are created
+2024-05-16 21:43:56,884 INFO c.a.l.TestListneres [TestNG-test-homeWork-1] TestverifyAddProductInCartByTitle Started
+2024-05-16 21:43:56,884 DEBUG c.a.u.DriverFactory [TestNG-test-homeWork-2] Browser is chrome
+2024-05-16 21:43:56,885 DEBUG c.a.u.DriverFactory [TestNG-test-homeWork-2] Browser is firefox
+2024-05-16 21:43:56,885 DEBUG c.a.u.DriverFactory [TestNG-test-homeWork-2] Options are created
+2024-05-16 21:43:58,457 INFO c.a.l.TestListneres [TestNG-test-homeWork-2] TestverifyAddAllProductInCartByTitle Started
+2024-05-16 21:43:59,795 INFO c.a.l.TestListneres [TestNG-test-homeWork-1] Test verifyAddProductInCartByTitle Success
+2024-05-16 21:43:59,861 INFO c.a.l.TestListneres [TestNG-test-homeWork-2] Test verifyAddAllProductInCartByTitle Success
+2024-05-16 21:44:01,763 INFO c.a.l.TestListneres [TestNG-test-homeWork-3] Test verifyAddFiltByTitel Success
